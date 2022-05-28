@@ -18,7 +18,7 @@ These wireframes are made in Adobe Photoshop.
 ## Responsive Web Design
 
 #### Laptop View
-![ss1](/ss1.jpg)
+![ss1](/ss1.JPG)
 
 #### Mobile View
-![ss2](/ss2.jpg)
+![ss2](/ss2.JPG)
